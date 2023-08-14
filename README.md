@@ -1,4 +1,4 @@
-# TUTORIAL_COMPOSE_BIBI
+# TUTORIAL_COMPOSE_BIBI_HERNANDEZ
 # LECCION 1 
 
 - Agrega un elemento de texto
